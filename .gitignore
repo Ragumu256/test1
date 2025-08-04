@@ -2,4 +2,3 @@ node_modules/
 dist/
 _src
 clean_dist.bat
-src/_client.html
